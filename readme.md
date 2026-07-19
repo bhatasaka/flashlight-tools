@@ -25,14 +25,6 @@ Archived:
 
 
 ## Photos
-Tool rendering
+Example of tool (Skilhunt M150 with tool inserted)
 
-![Tool in OpenSCAD](images/tool_scad.png)
-
-Wrench rendering
-
-![Wrench in OpenSCAD](images/wrench_scad.png)
-
-Tool with HD10
-
-![Tool with HD10](images/tool_with_ratchet.jpg)
+![Skilhunt M150 with bezel tool](images/m150_with_tool.jpg)
