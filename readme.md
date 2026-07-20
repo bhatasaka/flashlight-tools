@@ -2,6 +2,8 @@
 This repo contains the OpenSCAD files for tools to unscrew the bezels and switches on various flashlights. Most of the tools can be used with a 1/4" ratchet square drive or just your fingers. They can all be printed without support. I was able to print these on an Ender 3 V2 Neo in PLA. Measurements can be adjusted to print better or to generate a file for your own light.
 
 In this repo:
+- `dw4-bezel-tool.scad`
+  - OpenSCAD filef or tool to remove Emisar DW4 bezel.
 - `emisar-6-wing-button-tool.scad`
   - OpenSCAD file for tool to remove the button on many Emisar/Noctigon flashlights including the D4V2, D1, DW4, and more.
 - `HD10-bezel-tool-v2.scad`
